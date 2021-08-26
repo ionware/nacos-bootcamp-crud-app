@@ -1,0 +1,7202 @@
+[
+  {
+    "firstName": "Jordi",
+    "lastName": "Dibbert",
+    "cgpa": "3.65",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Matilde",
+    "lastName": "Botsford",
+    "cgpa": "1.94",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Maxine",
+    "lastName": "Upton",
+    "cgpa": "1.49",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Tobin",
+    "lastName": "Hauck",
+    "cgpa": "1.07",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Schulist",
+    "cgpa": "2.67",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Oswaldo",
+    "lastName": "Gleichner",
+    "cgpa": "2.22",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kelsi",
+    "lastName": "Windler",
+    "cgpa": "2.39",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Nadia",
+    "lastName": "Jacobson",
+    "cgpa": "1.03",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Grimes",
+    "cgpa": "3.24",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Willow",
+    "lastName": "Auer",
+    "cgpa": "3.81",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "June",
+    "lastName": "Swaniawski",
+    "cgpa": "0.89",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Otis",
+    "lastName": "Kutch",
+    "cgpa": "3.37",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Cora",
+    "lastName": "Koepp",
+    "cgpa": "1.48",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Kyleigh",
+    "lastName": "Braun",
+    "cgpa": "2.69",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Sarai",
+    "lastName": "Kohler",
+    "cgpa": "2.93",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Kyla",
+    "lastName": "Reichert",
+    "cgpa": "2.48",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Kimberly",
+    "lastName": "Murazik",
+    "cgpa": "2.27",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Margarita",
+    "lastName": "Powlowski",
+    "cgpa": "2.29",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Novella",
+    "lastName": "Rohan",
+    "cgpa": "2.62",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Gust",
+    "lastName": "Macejkovic",
+    "cgpa": "3.89",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Mabel",
+    "lastName": "Hayes",
+    "cgpa": "1.28",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Eliza",
+    "lastName": "D'Amore",
+    "cgpa": "3.24",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Candace",
+    "lastName": "Rice",
+    "cgpa": "3.54",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Eloisa",
+    "lastName": "Cremin",
+    "cgpa": "3.46",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Dexter",
+    "lastName": "Kunde",
+    "cgpa": "1.95",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Justen",
+    "lastName": "Armstrong",
+    "cgpa": "1.01",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Martine",
+    "lastName": "Roob",
+    "cgpa": "3.06",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Nicola",
+    "lastName": "Tremblay",
+    "cgpa": "2.91",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Marge",
+    "lastName": "Von",
+    "cgpa": "2.54",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Harley",
+    "lastName": "Toy",
+    "cgpa": "1.98",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Hipolito",
+    "lastName": "Keeling",
+    "cgpa": "3.45",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Gerardo",
+    "lastName": "Windler",
+    "cgpa": "3.90",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Ledner",
+    "cgpa": "3.94",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Eudora",
+    "lastName": "Rice",
+    "cgpa": "1.04",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Mariam",
+    "lastName": "Hessel",
+    "cgpa": "3.89",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Adolf",
+    "lastName": "Collier",
+    "cgpa": "1.16",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Mireya",
+    "lastName": "Abbott",
+    "cgpa": "1.57",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Garret",
+    "lastName": "Hermann",
+    "cgpa": "1.75",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Elbert",
+    "lastName": "Willms",
+    "cgpa": "2.60",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Gayle",
+    "lastName": "Rippin",
+    "cgpa": "3.87",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Toby",
+    "lastName": "Lowe",
+    "cgpa": "3.61",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Lue",
+    "lastName": "Medhurst",
+    "cgpa": "2.27",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Tobin",
+    "lastName": "Barrows",
+    "cgpa": "2.82",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Patience",
+    "lastName": "Gislason",
+    "cgpa": "2.30",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Brandi",
+    "lastName": "Nienow",
+    "cgpa": "1.59",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Madge",
+    "lastName": "Heller",
+    "cgpa": "2.52",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Minerva",
+    "lastName": "Sauer",
+    "cgpa": "3.04",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Laurence",
+    "lastName": "Satterfield",
+    "cgpa": "2.78",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Robbie",
+    "lastName": "Parisian",
+    "cgpa": "2.50",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Jarret",
+    "lastName": "Veum",
+    "cgpa": "2.75",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Deangelo",
+    "lastName": "Kohler",
+    "cgpa": "3.98",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Ethyl",
+    "lastName": "Kovacek",
+    "cgpa": "3.08",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Johnson",
+    "cgpa": "2.65",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Tristian",
+    "lastName": "Marvin",
+    "cgpa": "2.87",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Carroll",
+    "lastName": "Lang",
+    "cgpa": "2.51",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Luigi",
+    "lastName": "Brown",
+    "cgpa": "1.08",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Gilberto",
+    "lastName": "Rath",
+    "cgpa": "3.83",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Brody",
+    "lastName": "Rutherford",
+    "cgpa": "1.84",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Aaliyah",
+    "lastName": "Ritchie",
+    "cgpa": "3.56",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Hoppe",
+    "cgpa": "1.96",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Zetta",
+    "lastName": "Hettinger",
+    "cgpa": "2.29",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Rafaela",
+    "lastName": "Kunde",
+    "cgpa": "2.59",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Garret",
+    "lastName": "Parker",
+    "cgpa": "1.02",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Keely",
+    "lastName": "Ratke",
+    "cgpa": "1.39",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Ryan",
+    "cgpa": "2.11",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Camryn",
+    "lastName": "Yost",
+    "cgpa": "2.95",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Pamela",
+    "lastName": "Schowalter",
+    "cgpa": "1.62",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Alf",
+    "lastName": "Cummings",
+    "cgpa": "1.38",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Moises",
+    "lastName": "Collier",
+    "cgpa": "3.49",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Lehner",
+    "cgpa": "2.92",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Janessa",
+    "lastName": "Johns",
+    "cgpa": "1.13",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Ernser",
+    "cgpa": "3.67",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Dagmar",
+    "lastName": "Cole",
+    "cgpa": "0.83",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Bradford",
+    "lastName": "Zieme",
+    "cgpa": "3.13",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Keebler",
+    "cgpa": "1.11",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Considine",
+    "cgpa": "2.09",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Christiana",
+    "lastName": "Skiles",
+    "cgpa": "2.36",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "Von",
+    "cgpa": "2.58",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Zelma",
+    "lastName": "Corwin",
+    "cgpa": "1.85",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Amira",
+    "lastName": "Corwin",
+    "cgpa": "1.78",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Shanie",
+    "lastName": "Sanford",
+    "cgpa": "1.49",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Aurelio",
+    "lastName": "Murazik",
+    "cgpa": "3.61",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Daphney",
+    "lastName": "Williamson",
+    "cgpa": "3.65",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Tania",
+    "lastName": "Cummerata",
+    "cgpa": "2.53",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Cordia",
+    "lastName": "Conn",
+    "cgpa": "3.28",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Kattie",
+    "lastName": "Lesch",
+    "cgpa": "1.65",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Unique",
+    "lastName": "Hegmann",
+    "cgpa": "2.60",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Clovis",
+    "lastName": "Spinka",
+    "cgpa": "3.41",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Emmie",
+    "lastName": "Frami",
+    "cgpa": "3.24",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Jaeden",
+    "lastName": "Murphy",
+    "cgpa": "1.39",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Schmidt",
+    "cgpa": "2.43",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Berneice",
+    "lastName": "Lowe",
+    "cgpa": "2.89",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Roderick",
+    "lastName": "Lang",
+    "cgpa": "1.22",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Monahan",
+    "cgpa": "1.43",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Simone",
+    "lastName": "Fadel",
+    "cgpa": "1.83",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Amaya",
+    "lastName": "Dicki",
+    "cgpa": "2.73",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Shanny",
+    "lastName": "Krajcik",
+    "cgpa": "0.89",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Ernestina",
+    "lastName": "Renner",
+    "cgpa": "1.86",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Forest",
+    "lastName": "Hickle",
+    "cgpa": "2.62",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Oran",
+    "lastName": "Schiller",
+    "cgpa": "1.33",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Kerluke",
+    "cgpa": "1.58",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Mckenna",
+    "lastName": "Schamberger",
+    "cgpa": "1.02",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Jarod",
+    "lastName": "Mitchell",
+    "cgpa": "0.86",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Imelda",
+    "lastName": "Yost",
+    "cgpa": "2.13",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "McClure",
+    "cgpa": "3.43",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Leif",
+    "lastName": "Greenholt",
+    "cgpa": "3.08",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Kylie",
+    "lastName": "Mills",
+    "cgpa": "1.22",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Vernon",
+    "lastName": "Pacocha",
+    "cgpa": "3.43",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Cade",
+    "lastName": "O'Conner",
+    "cgpa": "3.09",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Leonora",
+    "lastName": "Dach",
+    "cgpa": "2.64",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jennings",
+    "lastName": "Zboncak",
+    "cgpa": "3.58",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Annie",
+    "lastName": "Tromp",
+    "cgpa": "1.54",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Kayden",
+    "lastName": "Beier",
+    "cgpa": "2.26",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Idell",
+    "lastName": "Kerluke",
+    "cgpa": "2.51",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "VonRueden",
+    "cgpa": "1.32",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Merlin",
+    "lastName": "Smith",
+    "cgpa": "1.67",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Donnie",
+    "lastName": "Watsica",
+    "cgpa": "3.72",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Juana",
+    "lastName": "Rodriguez",
+    "cgpa": "1.95",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Ardith",
+    "lastName": "Feest",
+    "cgpa": "2.60",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Shanna",
+    "lastName": "Pacocha",
+    "cgpa": "1.85",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Magdalen",
+    "lastName": "Steuber",
+    "cgpa": "3.28",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Janick",
+    "lastName": "Trantow",
+    "cgpa": "2.76",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Hank",
+    "lastName": "Mueller",
+    "cgpa": "3.92",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Marlen",
+    "lastName": "West",
+    "cgpa": "0.99",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Charley",
+    "lastName": "Johnston",
+    "cgpa": "3.93",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Earnest",
+    "lastName": "Kunze",
+    "cgpa": "2.95",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Dejah",
+    "lastName": "Orn",
+    "cgpa": "3.19",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Aliza",
+    "lastName": "Mosciski",
+    "cgpa": "3.29",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jerome",
+    "lastName": "Brakus",
+    "cgpa": "3.96",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Garfield",
+    "lastName": "Grimes",
+    "cgpa": "0.81",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Lenora",
+    "lastName": "Connelly",
+    "cgpa": "1.76",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Angel",
+    "lastName": "Rice",
+    "cgpa": "2.34",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Meaghan",
+    "lastName": "Runolfsson",
+    "cgpa": "2.47",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Angus",
+    "lastName": "Leuschke",
+    "cgpa": "2.01",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Herta",
+    "lastName": "Rempel",
+    "cgpa": "1.93",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Major",
+    "lastName": "Jenkins",
+    "cgpa": "3.36",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Margarett",
+    "lastName": "Wisozk",
+    "cgpa": "2.21",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Mateo",
+    "lastName": "Ortiz",
+    "cgpa": "0.95",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Damion",
+    "lastName": "Tillman",
+    "cgpa": "2.68",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Earline",
+    "lastName": "Barrows",
+    "cgpa": "3.76",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Carley",
+    "lastName": "Morar",
+    "cgpa": "0.85",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Sid",
+    "lastName": "Bartoletti",
+    "cgpa": "2.07",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Braxton",
+    "lastName": "Runolfsson",
+    "cgpa": "2.83",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Reynolds",
+    "cgpa": "3.94",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Marlee",
+    "lastName": "Dickinson",
+    "cgpa": "1.86",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Natasha",
+    "lastName": "Ernser",
+    "cgpa": "1.02",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Gerlach",
+    "cgpa": "2.64",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Dee",
+    "lastName": "Rolfson",
+    "cgpa": "2.37",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Jeanette",
+    "lastName": "Robel",
+    "cgpa": "1.42",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Derek",
+    "lastName": "Balistreri",
+    "cgpa": "3.59",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Ivah",
+    "lastName": "Mraz",
+    "cgpa": "2.15",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Rasheed",
+    "lastName": "Durgan",
+    "cgpa": "3.15",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Rhoda",
+    "lastName": "Hudson",
+    "cgpa": "2.38",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Hadley",
+    "lastName": "Weber",
+    "cgpa": "2.89",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Augustus",
+    "lastName": "Dare",
+    "cgpa": "3.63",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Brisa",
+    "lastName": "Upton",
+    "cgpa": "2.74",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Corrine",
+    "lastName": "Jaskolski",
+    "cgpa": "1.60",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Verda",
+    "lastName": "Gottlieb",
+    "cgpa": "3.65",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Elmer",
+    "lastName": "Conroy",
+    "cgpa": "2.78",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Brooks",
+    "lastName": "Altenwerth",
+    "cgpa": "1.68",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Pearlie",
+    "lastName": "Cummerata",
+    "cgpa": "1.53",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Joanny",
+    "lastName": "Casper",
+    "cgpa": "2.66",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jaren",
+    "lastName": "Lubowitz",
+    "cgpa": "3.98",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Hagenes",
+    "cgpa": "1.45",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Brown",
+    "cgpa": "3.53",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Crona",
+    "cgpa": "2.61",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Nicolette",
+    "lastName": "Hills",
+    "cgpa": "1.28",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Kay",
+    "lastName": "O'Reilly",
+    "cgpa": "3.43",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Auer",
+    "cgpa": "1.25",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Henderson",
+    "lastName": "Russel",
+    "cgpa": "3.49",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jamarcus",
+    "lastName": "Parker",
+    "cgpa": "2.17",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Elbert",
+    "lastName": "Lindgren",
+    "cgpa": "1.82",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Velva",
+    "lastName": "King",
+    "cgpa": "3.57",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Carmen",
+    "lastName": "Beahan",
+    "cgpa": "3.78",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Alycia",
+    "lastName": "Feest",
+    "cgpa": "3.76",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Lottie",
+    "lastName": "Sporer",
+    "cgpa": "1.92",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Celestine",
+    "lastName": "Nitzsche",
+    "cgpa": "2.11",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Bergstrom",
+    "cgpa": "0.91",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Freda",
+    "lastName": "Ferry",
+    "cgpa": "3.51",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Else",
+    "lastName": "Kuvalis",
+    "cgpa": "2.34",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Smith",
+    "cgpa": "3.25",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "Hyatt",
+    "cgpa": "1.53",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Mathew",
+    "lastName": "Green",
+    "cgpa": "3.38",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Mylene",
+    "lastName": "Spinka",
+    "cgpa": "1.24",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Jerde",
+    "cgpa": "0.84",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Carmel",
+    "lastName": "Schmeler",
+    "cgpa": "3.92",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Bessie",
+    "lastName": "Kohler",
+    "cgpa": "1.11",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Kameron",
+    "lastName": "Gulgowski",
+    "cgpa": "1.93",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Mckenna",
+    "lastName": "Renner",
+    "cgpa": "2.23",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Zion",
+    "lastName": "Williamson",
+    "cgpa": "1.35",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Ezra",
+    "lastName": "Lakin",
+    "cgpa": "3.64",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Kaela",
+    "lastName": "McLaughlin",
+    "cgpa": "1.84",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Rahsaan",
+    "lastName": "Kemmer",
+    "cgpa": "2.37",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Fannie",
+    "lastName": "Armstrong",
+    "cgpa": "3.86",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Garth",
+    "lastName": "Nader",
+    "cgpa": "2.86",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Gleichner",
+    "cgpa": "3.14",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Schoen",
+    "cgpa": "2.41",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Aryanna",
+    "lastName": "Langworth",
+    "cgpa": "1.83",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Aida",
+    "lastName": "Volkman",
+    "cgpa": "2.89",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Abbigail",
+    "lastName": "Kreiger",
+    "cgpa": "2.07",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Lindsey",
+    "lastName": "Herzog",
+    "cgpa": "2.15",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Annie",
+    "lastName": "Carter",
+    "cgpa": "2.72",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Mayer",
+    "cgpa": "1.01",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Zoie",
+    "lastName": "Rosenbaum",
+    "cgpa": "0.88",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Kaelyn",
+    "lastName": "Kovacek",
+    "cgpa": "1.98",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Shad",
+    "lastName": "Mills",
+    "cgpa": "2.23",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Einar",
+    "lastName": "Nolan",
+    "cgpa": "3.21",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Autumn",
+    "lastName": "Collier",
+    "cgpa": "1.28",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Ignacio",
+    "lastName": "Moen",
+    "cgpa": "1.54",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Clement",
+    "lastName": "Pacocha",
+    "cgpa": "2.31",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Leonora",
+    "lastName": "Donnelly",
+    "cgpa": "3.08",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Alyce",
+    "lastName": "Raynor",
+    "cgpa": "0.94",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Thelma",
+    "lastName": "Bode",
+    "cgpa": "2.42",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "MacGyver",
+    "cgpa": "2.75",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Al",
+    "lastName": "Pacocha",
+    "cgpa": "3.76",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Cora",
+    "lastName": "Fadel",
+    "cgpa": "1.15",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Clay",
+    "lastName": "Schulist",
+    "cgpa": "3.13",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Hertha",
+    "lastName": "Bartell",
+    "cgpa": "3.38",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Jany",
+    "lastName": "West",
+    "cgpa": "2.10",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Claudie",
+    "lastName": "Zulauf",
+    "cgpa": "2.04",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Maiya",
+    "lastName": "Langosh",
+    "cgpa": "1.64",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Andres",
+    "lastName": "Heller",
+    "cgpa": "3.35",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Howe",
+    "cgpa": "3.68",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Amber",
+    "lastName": "Morar",
+    "cgpa": "1.14",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Sonny",
+    "lastName": "Denesik",
+    "cgpa": "1.05",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Marlee",
+    "lastName": "Upton",
+    "cgpa": "3.11",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Delfina",
+    "lastName": "McDermott",
+    "cgpa": "3.18",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Sienna",
+    "lastName": "Rodriguez",
+    "cgpa": "1.64",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Santos",
+    "lastName": "Torp",
+    "cgpa": "1.86",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Amber",
+    "lastName": "Bode",
+    "cgpa": "0.97",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Asa",
+    "lastName": "Runte",
+    "cgpa": "2.28",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Laurie",
+    "lastName": "Douglas",
+    "cgpa": "1.20",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Jaycee",
+    "lastName": "Mayer",
+    "cgpa": "3.05",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Kovacek",
+    "cgpa": "0.88",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Emelie",
+    "lastName": "Pfannerstill",
+    "cgpa": "1.07",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Shanahan",
+    "cgpa": "1.09",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Aryanna",
+    "lastName": "Schneider",
+    "cgpa": "3.45",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Malinda",
+    "lastName": "Glover",
+    "cgpa": "1.73",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Chester",
+    "lastName": "O'Kon",
+    "cgpa": "3.51",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Gertrude",
+    "lastName": "Langworth",
+    "cgpa": "1.36",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Candido",
+    "lastName": "Wehner",
+    "cgpa": "1.65",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Tremayne",
+    "lastName": "Metz",
+    "cgpa": "1.74",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Carolyn",
+    "lastName": "Mohr",
+    "cgpa": "2.50",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Marjory",
+    "lastName": "Greenholt",
+    "cgpa": "3.48",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Chelsey",
+    "lastName": "O'Hara",
+    "cgpa": "2.79",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Kautzer",
+    "cgpa": "2.62",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Major",
+    "lastName": "Cummings",
+    "cgpa": "3.52",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Rempel",
+    "cgpa": "2.95",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Deontae",
+    "lastName": "Lockman",
+    "cgpa": "1.14",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Jordi",
+    "lastName": "Marquardt",
+    "cgpa": "3.24",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Trudie",
+    "lastName": "Cummerata",
+    "cgpa": "1.85",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Devon",
+    "lastName": "Towne",
+    "cgpa": "3.48",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Mayra",
+    "lastName": "Wilderman",
+    "cgpa": "2.21",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Merle",
+    "lastName": "Padberg",
+    "cgpa": "2.39",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Reva",
+    "lastName": "Turner",
+    "cgpa": "1.85",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Justus",
+    "lastName": "Graham",
+    "cgpa": "1.22",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Tod",
+    "lastName": "Connelly",
+    "cgpa": "3.78",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Ronaldo",
+    "lastName": "McLaughlin",
+    "cgpa": "2.21",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Caesar",
+    "lastName": "Quigley",
+    "cgpa": "2.36",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Beer",
+    "cgpa": "3.14",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Laurel",
+    "lastName": "Herman",
+    "cgpa": "2.63",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jeffrey",
+    "lastName": "Ziemann",
+    "cgpa": "3.40",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Hilton",
+    "lastName": "Prohaska",
+    "cgpa": "2.49",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Concepcion",
+    "lastName": "Hoeger",
+    "cgpa": "3.20",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Hazel",
+    "lastName": "Steuber",
+    "cgpa": "3.65",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Amiya",
+    "lastName": "Roberts",
+    "cgpa": "1.84",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Scarlett",
+    "lastName": "Blanda",
+    "cgpa": "2.34",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Deontae",
+    "lastName": "Runolfsdottir",
+    "cgpa": "3.66",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Bell",
+    "lastName": "Volkman",
+    "cgpa": "1.22",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Runte",
+    "cgpa": "1.20",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Tavares",
+    "lastName": "Franecki",
+    "cgpa": "2.29",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Shany",
+    "lastName": "Jones",
+    "cgpa": "1.72",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Brionna",
+    "lastName": "Wilderman",
+    "cgpa": "3.28",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Gerlach",
+    "cgpa": "1.63",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Kirsten",
+    "lastName": "Osinski",
+    "cgpa": "1.59",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Brandi",
+    "lastName": "Bauch",
+    "cgpa": "1.56",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Josiah",
+    "lastName": "Beier",
+    "cgpa": "2.73",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Beatrice",
+    "lastName": "Yost",
+    "cgpa": "2.89",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Donnell",
+    "lastName": "Crona",
+    "cgpa": "1.09",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Asha",
+    "lastName": "Brekke",
+    "cgpa": "2.17",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Gayle",
+    "lastName": "Feest",
+    "cgpa": "3.14",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Gabe",
+    "lastName": "Schoen",
+    "cgpa": "3.28",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Bartell",
+    "cgpa": "3.39",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Bernadine",
+    "lastName": "Boyer",
+    "cgpa": "2.17",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Vickie",
+    "lastName": "West",
+    "cgpa": "2.45",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jedidiah",
+    "lastName": "Gulgowski",
+    "cgpa": "2.53",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Isom",
+    "lastName": "Strosin",
+    "cgpa": "3.93",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Deon",
+    "lastName": "Denesik",
+    "cgpa": "0.97",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Colby",
+    "lastName": "Tillman",
+    "cgpa": "1.29",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Foster",
+    "lastName": "Bechtelar",
+    "cgpa": "1.88",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Leopold",
+    "lastName": "Dooley",
+    "cgpa": "3.46",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Jeffrey",
+    "lastName": "Funk",
+    "cgpa": "1.85",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Creola",
+    "lastName": "Ullrich",
+    "cgpa": "3.02",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Anissa",
+    "lastName": "Kemmer",
+    "cgpa": "1.28",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Antone",
+    "lastName": "Schultz",
+    "cgpa": "2.87",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Imelda",
+    "lastName": "Hettinger",
+    "cgpa": "1.19",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Kautzer",
+    "cgpa": "3.54",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Saige",
+    "lastName": "Hamill",
+    "cgpa": "3.50",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Annabel",
+    "lastName": "Bechtelar",
+    "cgpa": "3.08",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Eleazar",
+    "lastName": "Thiel",
+    "cgpa": "2.33",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Skiles",
+    "cgpa": "3.02",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Katharina",
+    "lastName": "Hoeger",
+    "cgpa": "2.62",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Parker",
+    "lastName": "Boehm",
+    "cgpa": "2.40",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Kaelyn",
+    "lastName": "Dibbert",
+    "cgpa": "2.64",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Lyric",
+    "lastName": "Weissnat",
+    "cgpa": "0.90",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Jakayla",
+    "lastName": "Wintheiser",
+    "cgpa": "2.95",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Audra",
+    "lastName": "Green",
+    "cgpa": "2.70",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Darlene",
+    "lastName": "Lebsack",
+    "cgpa": "3.24",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Karine",
+    "lastName": "Champlin",
+    "cgpa": "2.43",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Dedric",
+    "lastName": "Reichert",
+    "cgpa": "3.97",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Miller",
+    "lastName": "Waters",
+    "cgpa": "3.15",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Cassidy",
+    "lastName": "Spencer",
+    "cgpa": "1.75",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Gia",
+    "lastName": "Bayer",
+    "cgpa": "3.46",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Dayna",
+    "lastName": "Hayes",
+    "cgpa": "1.20",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Juwan",
+    "lastName": "Rodriguez",
+    "cgpa": "3.69",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Ezekiel",
+    "lastName": "Wehner",
+    "cgpa": "2.18",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Emmitt",
+    "lastName": "Brakus",
+    "cgpa": "1.88",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Hoyt",
+    "lastName": "Borer",
+    "cgpa": "1.98",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Zack",
+    "lastName": "Treutel",
+    "cgpa": "3.53",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Lila",
+    "lastName": "Durgan",
+    "cgpa": "0.88",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jacques",
+    "lastName": "Lind",
+    "cgpa": "2.88",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Branson",
+    "lastName": "Kuhn",
+    "cgpa": "1.53",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Grant",
+    "cgpa": "3.83",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Turner",
+    "lastName": "Schumm",
+    "cgpa": "3.32",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Lucinda",
+    "lastName": "Ankunding",
+    "cgpa": "1.57",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Darron",
+    "lastName": "Flatley",
+    "cgpa": "2.02",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Chyna",
+    "lastName": "Osinski",
+    "cgpa": "3.75",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jaclyn",
+    "lastName": "Kilback",
+    "cgpa": "2.74",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Gilberto",
+    "lastName": "Schneider",
+    "cgpa": "3.27",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Cecelia",
+    "lastName": "Bartell",
+    "cgpa": "1.29",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Maynard",
+    "lastName": "Wilkinson",
+    "cgpa": "2.96",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Kaden",
+    "lastName": "Kemmer",
+    "cgpa": "1.61",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Cayla",
+    "lastName": "Gottlieb",
+    "cgpa": "1.19",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Crawford",
+    "lastName": "Kuhlman",
+    "cgpa": "1.68",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Block",
+    "cgpa": "3.58",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Timmothy",
+    "lastName": "Waters",
+    "cgpa": "1.35",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Neoma",
+    "lastName": "Waters",
+    "cgpa": "1.85",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jayme",
+    "lastName": "Greenfelder",
+    "cgpa": "2.60",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Hanna",
+    "lastName": "Kemmer",
+    "cgpa": "3.33",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Oleta",
+    "lastName": "Herzog",
+    "cgpa": "1.90",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Verdie",
+    "lastName": "Rutherford",
+    "cgpa": "0.99",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Dallas",
+    "lastName": "Streich",
+    "cgpa": "3.90",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Doyle",
+    "cgpa": "3.41",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Elda",
+    "lastName": "White",
+    "cgpa": "3.96",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jackie",
+    "lastName": "Hane",
+    "cgpa": "2.02",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Tyree",
+    "lastName": "Langosh",
+    "cgpa": "1.41",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Reuben",
+    "lastName": "Emard",
+    "cgpa": "3.98",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Zora",
+    "lastName": "Erdman",
+    "cgpa": "2.05",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Manley",
+    "lastName": "D'Amore",
+    "cgpa": "1.31",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Greyson",
+    "lastName": "Klocko",
+    "cgpa": "3.52",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Keagan",
+    "lastName": "Lehner",
+    "cgpa": "2.07",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Bennie",
+    "lastName": "Schinner",
+    "cgpa": "2.11",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Simone",
+    "lastName": "Crooks",
+    "cgpa": "3.74",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Mozelle",
+    "lastName": "Kiehn",
+    "cgpa": "3.12",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Harris",
+    "cgpa": "3.51",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Carolina",
+    "lastName": "Lehner",
+    "cgpa": "3.09",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Maximus",
+    "lastName": "Kassulke",
+    "cgpa": "2.18",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Harber",
+    "cgpa": "3.07",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Rosina",
+    "lastName": "Lynch",
+    "cgpa": "3.67",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Nadia",
+    "lastName": "Kilback",
+    "cgpa": "2.50",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Josue",
+    "lastName": "McKenzie",
+    "cgpa": "3.29",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Winfield",
+    "lastName": "Ankunding",
+    "cgpa": "2.11",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Kira",
+    "lastName": "Leannon",
+    "cgpa": "1.99",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Gerry",
+    "lastName": "Hagenes",
+    "cgpa": "3.51",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Thaddeus",
+    "lastName": "Abbott",
+    "cgpa": "1.91",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Destiney",
+    "lastName": "Nader",
+    "cgpa": "1.79",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Sydni",
+    "lastName": "Metz",
+    "cgpa": "3.90",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Therese",
+    "lastName": "Simonis",
+    "cgpa": "1.56",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Lisandro",
+    "lastName": "Nikolaus",
+    "cgpa": "1.46",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Theresa",
+    "lastName": "Simonis",
+    "cgpa": "1.48",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Demetrius",
+    "lastName": "Smith",
+    "cgpa": "1.19",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Eleazar",
+    "lastName": "Boyle",
+    "cgpa": "3.73",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Kenya",
+    "lastName": "Cassin",
+    "cgpa": "3.18",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Autumn",
+    "lastName": "Auer",
+    "cgpa": "3.29",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Alverta",
+    "lastName": "Sanford",
+    "cgpa": "2.43",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Bins",
+    "cgpa": "1.92",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Helmer",
+    "lastName": "Kutch",
+    "cgpa": "2.04",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Tevin",
+    "lastName": "Moore",
+    "cgpa": "2.42",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Keagan",
+    "lastName": "Kutch",
+    "cgpa": "2.73",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Monte",
+    "lastName": "Torphy",
+    "cgpa": "1.80",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Bennie",
+    "lastName": "Stanton",
+    "cgpa": "1.87",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Josefa",
+    "lastName": "Medhurst",
+    "cgpa": "1.89",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Brice",
+    "lastName": "Ratke",
+    "cgpa": "3.72",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Mozelle",
+    "lastName": "Balistreri",
+    "cgpa": "2.83",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Neoma",
+    "lastName": "O'Kon",
+    "cgpa": "2.64",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Cathrine",
+    "lastName": "Moore",
+    "cgpa": "1.99",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Nia",
+    "lastName": "Lemke",
+    "cgpa": "2.95",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Maryam",
+    "lastName": "Abernathy",
+    "cgpa": "2.54",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Garnett",
+    "lastName": "White",
+    "cgpa": "2.45",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Leilani",
+    "lastName": "Beahan",
+    "cgpa": "3.03",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jordon",
+    "lastName": "Jakubowski",
+    "cgpa": "3.96",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Stephania",
+    "lastName": "Wilkinson",
+    "cgpa": "3.24",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Dexter",
+    "lastName": "Waelchi",
+    "cgpa": "1.27",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Maud",
+    "lastName": "Rempel",
+    "cgpa": "2.47",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Marlon",
+    "lastName": "Ullrich",
+    "cgpa": "1.80",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Liana",
+    "lastName": "Beatty",
+    "cgpa": "1.73",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Rosemary",
+    "lastName": "Hahn",
+    "cgpa": "2.28",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Emelie",
+    "lastName": "Altenwerth",
+    "cgpa": "3.42",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Brendon",
+    "lastName": "Lakin",
+    "cgpa": "1.26",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Athena",
+    "lastName": "Williamson",
+    "cgpa": "2.64",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Sheila",
+    "lastName": "Donnelly",
+    "cgpa": "0.98",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Elwyn",
+    "lastName": "Reynolds",
+    "cgpa": "1.05",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Johnson",
+    "lastName": "Fisher",
+    "cgpa": "0.89",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Penelope",
+    "lastName": "Hermiston",
+    "cgpa": "3.76",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Brennan",
+    "lastName": "Pollich",
+    "cgpa": "1.58",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Kassandra",
+    "lastName": "Langworth",
+    "cgpa": "1.20",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Carolina",
+    "lastName": "Kihn",
+    "cgpa": "2.02",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Laney",
+    "lastName": "Schneider",
+    "cgpa": "3.71",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Reinger",
+    "cgpa": "2.55",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Elva",
+    "lastName": "Crooks",
+    "cgpa": "1.41",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Elmore",
+    "lastName": "Kemmer",
+    "cgpa": "1.69",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Waylon",
+    "lastName": "Gorczany",
+    "cgpa": "2.95",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Adalberto",
+    "lastName": "Jakubowski",
+    "cgpa": "1.26",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Francesco",
+    "lastName": "Labadie",
+    "cgpa": "3.51",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Korey",
+    "lastName": "Auer",
+    "cgpa": "2.22",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Juanita",
+    "lastName": "Morar",
+    "cgpa": "1.47",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Charity",
+    "lastName": "Turcotte",
+    "cgpa": "3.10",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Arden",
+    "lastName": "Kovacek",
+    "cgpa": "1.62",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Keebler",
+    "cgpa": "1.67",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Alvera",
+    "lastName": "Dicki",
+    "cgpa": "3.34",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Clay",
+    "lastName": "Morar",
+    "cgpa": "3.18",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Waino",
+    "lastName": "Gutmann",
+    "cgpa": "3.22",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Anne",
+    "lastName": "Jacobson",
+    "cgpa": "3.23",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Alford",
+    "lastName": "Blanda",
+    "cgpa": "3.42",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Deon",
+    "lastName": "Bernhard",
+    "cgpa": "0.88",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Myrna",
+    "lastName": "Hudson",
+    "cgpa": "3.38",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Bernadine",
+    "lastName": "Berge",
+    "cgpa": "1.79",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Harvey",
+    "lastName": "Cremin",
+    "cgpa": "2.97",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Maye",
+    "lastName": "Greenfelder",
+    "cgpa": "3.09",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Russel",
+    "cgpa": "3.82",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Rusty",
+    "lastName": "Batz",
+    "cgpa": "3.05",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Sid",
+    "lastName": "Veum",
+    "cgpa": "1.49",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Yessenia",
+    "lastName": "Terry",
+    "cgpa": "2.26",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Marge",
+    "lastName": "Towne",
+    "cgpa": "1.45",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Hollis",
+    "lastName": "Hermiston",
+    "cgpa": "0.94",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Otho",
+    "lastName": "Beer",
+    "cgpa": "3.32",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Haley",
+    "cgpa": "2.32",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Shane",
+    "lastName": "Kling",
+    "cgpa": "3.94",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Heaney",
+    "cgpa": "0.94",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Amya",
+    "lastName": "Cole",
+    "cgpa": "2.07",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Karelle",
+    "lastName": "Torp",
+    "cgpa": "1.88",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Junius",
+    "lastName": "Runolfsdottir",
+    "cgpa": "2.61",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jordon",
+    "lastName": "Beatty",
+    "cgpa": "1.07",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Jarrett",
+    "lastName": "Reichert",
+    "cgpa": "3.99",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Wilfredo",
+    "lastName": "Cremin",
+    "cgpa": "3.45",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Elvera",
+    "lastName": "Effertz",
+    "cgpa": "3.80",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Lorenz",
+    "lastName": "Jones",
+    "cgpa": "1.19",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Paucek",
+    "cgpa": "1.44",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Harmony",
+    "lastName": "Braun",
+    "cgpa": "3.96",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Kaela",
+    "lastName": "Daugherty",
+    "cgpa": "3.44",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Bertrand",
+    "lastName": "DuBuque",
+    "cgpa": "0.88",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Aylin",
+    "lastName": "Schneider",
+    "cgpa": "0.96",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Eriberto",
+    "lastName": "Rice",
+    "cgpa": "3.24",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Keeley",
+    "lastName": "Kris",
+    "cgpa": "1.99",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Larson",
+    "cgpa": "2.51",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Devan",
+    "lastName": "Kiehn",
+    "cgpa": "3.82",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Isadore",
+    "lastName": "Howell",
+    "cgpa": "2.63",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Yasmin",
+    "lastName": "Kiehn",
+    "cgpa": "3.58",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Micah",
+    "lastName": "Hilll",
+    "cgpa": "1.42",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Dayana",
+    "lastName": "Goyette",
+    "cgpa": "2.87",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Earlene",
+    "lastName": "Cole",
+    "cgpa": "2.53",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Domenico",
+    "lastName": "Stokes",
+    "cgpa": "2.82",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Crystel",
+    "lastName": "Gislason",
+    "cgpa": "1.02",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Ernie",
+    "lastName": "Dicki",
+    "cgpa": "1.51",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Meda",
+    "lastName": "Konopelski",
+    "cgpa": "3.71",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Colten",
+    "lastName": "Quigley",
+    "cgpa": "2.84",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Helga",
+    "lastName": "Towne",
+    "cgpa": "2.06",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Crystel",
+    "lastName": "Swift",
+    "cgpa": "2.13",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Pasquale",
+    "lastName": "McDermott",
+    "cgpa": "3.61",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Jaskolski",
+    "cgpa": "2.58",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Hal",
+    "lastName": "Herman",
+    "cgpa": "3.91",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Norma",
+    "lastName": "Gerlach",
+    "cgpa": "1.93",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Marcelo",
+    "lastName": "Monahan",
+    "cgpa": "3.29",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Lisandro",
+    "lastName": "Koch",
+    "cgpa": "3.44",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Antonetta",
+    "lastName": "Bashirian",
+    "cgpa": "0.89",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Abagail",
+    "lastName": "Gislason",
+    "cgpa": "1.83",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Verlie",
+    "lastName": "Mueller",
+    "cgpa": "2.23",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Georgiana",
+    "lastName": "Ebert",
+    "cgpa": "3.04",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Sigurd",
+    "lastName": "Lakin",
+    "cgpa": "3.52",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Malinda",
+    "lastName": "Wyman",
+    "cgpa": "2.79",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Anabel",
+    "lastName": "Langosh",
+    "cgpa": "3.05",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Foster",
+    "lastName": "Champlin",
+    "cgpa": "3.50",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Davion",
+    "lastName": "Homenick",
+    "cgpa": "3.19",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Mertie",
+    "lastName": "Spencer",
+    "cgpa": "2.53",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Dessie",
+    "lastName": "Hagenes",
+    "cgpa": "1.06",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Buddy",
+    "lastName": "Torphy",
+    "cgpa": "3.28",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Mylene",
+    "lastName": "D'Amore",
+    "cgpa": "3.80",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Rusty",
+    "lastName": "Brown",
+    "cgpa": "1.97",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Kiera",
+    "lastName": "Tremblay",
+    "cgpa": "2.34",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Mohr",
+    "cgpa": "2.39",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Abdiel",
+    "lastName": "Lindgren",
+    "cgpa": "3.44",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Yoshiko",
+    "lastName": "Huel",
+    "cgpa": "2.99",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Velva",
+    "lastName": "Prohaska",
+    "cgpa": "3.05",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Sincere",
+    "lastName": "Muller",
+    "cgpa": "2.63",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Jena",
+    "lastName": "Hills",
+    "cgpa": "3.09",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "General",
+    "lastName": "Brown",
+    "cgpa": "1.03",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Tyrese",
+    "lastName": "Klein",
+    "cgpa": "1.49",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Ward",
+    "lastName": "Kuhlman",
+    "cgpa": "1.94",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Yesenia",
+    "lastName": "Gleason",
+    "cgpa": "2.81",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Katheryn",
+    "lastName": "Renner",
+    "cgpa": "2.98",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Guiseppe",
+    "lastName": "Cruickshank",
+    "cgpa": "3.92",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Loma",
+    "lastName": "Zulauf",
+    "cgpa": "1.84",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Fredy",
+    "lastName": "Blick",
+    "cgpa": "2.58",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Polly",
+    "lastName": "Ruecker",
+    "cgpa": "3.57",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Neoma",
+    "lastName": "Marquardt",
+    "cgpa": "2.46",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Stephany",
+    "lastName": "Koepp",
+    "cgpa": "3.75",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Magdalen",
+    "lastName": "Lehner",
+    "cgpa": "3.97",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Dibbert",
+    "cgpa": "3.74",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Clay",
+    "lastName": "Dare",
+    "cgpa": "1.82",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jenifer",
+    "lastName": "Halvorson",
+    "cgpa": "2.34",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Keenan",
+    "lastName": "Koepp",
+    "cgpa": "3.67",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Augustine",
+    "lastName": "Lubowitz",
+    "cgpa": "3.85",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Laury",
+    "lastName": "Beier",
+    "cgpa": "2.48",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Rogelio",
+    "lastName": "Bradtke",
+    "cgpa": "2.98",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Bertrand",
+    "lastName": "Lockman",
+    "cgpa": "1.59",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Royce",
+    "lastName": "Parisian",
+    "cgpa": "3.86",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Sadie",
+    "lastName": "Reynolds",
+    "cgpa": "3.76",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Trenton",
+    "lastName": "Barrows",
+    "cgpa": "1.36",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Alexanne",
+    "lastName": "Hauck",
+    "cgpa": "2.72",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jamar",
+    "lastName": "Dickens",
+    "cgpa": "3.49",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Aubree",
+    "lastName": "Bosco",
+    "cgpa": "3.42",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Myles",
+    "lastName": "Klein",
+    "cgpa": "3.28",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Noemy",
+    "lastName": "Gleason",
+    "cgpa": "2.61",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Brandyn",
+    "lastName": "Greenholt",
+    "cgpa": "2.27",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Joyce",
+    "lastName": "Waelchi",
+    "cgpa": "1.13",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Ettie",
+    "lastName": "Streich",
+    "cgpa": "1.31",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Savanah",
+    "lastName": "Sporer",
+    "cgpa": "2.43",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Rath",
+    "cgpa": "1.66",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Jamarcus",
+    "lastName": "Deckow",
+    "cgpa": "1.79",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Idella",
+    "lastName": "Dietrich",
+    "cgpa": "1.72",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Francis",
+    "lastName": "Pfannerstill",
+    "cgpa": "0.82",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Jayden",
+    "lastName": "Keeling",
+    "cgpa": "2.36",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Jenifer",
+    "lastName": "Sauer",
+    "cgpa": "1.11",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Lauretta",
+    "lastName": "Larson",
+    "cgpa": "1.20",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Antonina",
+    "lastName": "Roob",
+    "cgpa": "2.55",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Kenyatta",
+    "lastName": "Huels",
+    "cgpa": "1.01",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Michaela",
+    "lastName": "Gulgowski",
+    "cgpa": "1.93",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Aglae",
+    "lastName": "Parker",
+    "cgpa": "1.61",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Medhurst",
+    "cgpa": "3.06",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jerad",
+    "lastName": "Lind",
+    "cgpa": "2.00",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Annabelle",
+    "lastName": "Schamberger",
+    "cgpa": "3.51",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Monserrate",
+    "lastName": "Schmeler",
+    "cgpa": "3.57",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Kristofer",
+    "lastName": "Mohr",
+    "cgpa": "1.11",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Michele",
+    "lastName": "Prosacco",
+    "cgpa": "2.28",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Shany",
+    "lastName": "Wehner",
+    "cgpa": "1.94",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Obie",
+    "lastName": "Steuber",
+    "cgpa": "2.01",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Robb",
+    "lastName": "O'Connell",
+    "cgpa": "1.76",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Tiara",
+    "lastName": "Davis",
+    "cgpa": "2.25",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Candice",
+    "lastName": "Grady",
+    "cgpa": "3.89",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Khalil",
+    "lastName": "Jones",
+    "cgpa": "1.99",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Eino",
+    "lastName": "Denesik",
+    "cgpa": "3.04",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Clarabelle",
+    "lastName": "Gutkowski",
+    "cgpa": "2.87",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Kyler",
+    "lastName": "Hickle",
+    "cgpa": "0.93",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Wiegand",
+    "cgpa": "3.20",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Grover",
+    "lastName": "Kilback",
+    "cgpa": "3.67",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Leann",
+    "lastName": "Schamberger",
+    "cgpa": "1.74",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Kozey",
+    "cgpa": "1.39",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Mariah",
+    "lastName": "Mraz",
+    "cgpa": "1.86",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Maggio",
+    "cgpa": "2.92",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "White",
+    "cgpa": "3.68",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Zion",
+    "lastName": "Swaniawski",
+    "cgpa": "1.38",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Bailey",
+    "cgpa": "1.25",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Friesen",
+    "cgpa": "3.01",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Gottlieb",
+    "cgpa": "3.83",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Rosalyn",
+    "lastName": "Collins",
+    "cgpa": "2.64",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Hoyt",
+    "lastName": "Schinner",
+    "cgpa": "1.12",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Berta",
+    "lastName": "Bernhard",
+    "cgpa": "1.20",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Kylie",
+    "lastName": "Wisoky",
+    "cgpa": "0.86",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Jarred",
+    "lastName": "Gibson",
+    "cgpa": "3.68",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Madisen",
+    "lastName": "Waters",
+    "cgpa": "3.82",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Earl",
+    "lastName": "Cronin",
+    "cgpa": "1.65",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Mayert",
+    "cgpa": "1.90",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Gabriella",
+    "lastName": "Stroman",
+    "cgpa": "2.19",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Noemi",
+    "lastName": "Schoen",
+    "cgpa": "1.72",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Chelsey",
+    "lastName": "Leannon",
+    "cgpa": "1.32",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Lourdes",
+    "lastName": "Dickens",
+    "cgpa": "2.81",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Murl",
+    "lastName": "Prosacco",
+    "cgpa": "3.26",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Dejuan",
+    "lastName": "Bauch",
+    "cgpa": "2.31",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Nya",
+    "lastName": "Powlowski",
+    "cgpa": "3.31",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Dorthy",
+    "lastName": "Jones",
+    "cgpa": "0.83",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Melisa",
+    "lastName": "O'Connell",
+    "cgpa": "3.94",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Nathanael",
+    "lastName": "Batz",
+    "cgpa": "2.27",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Lennie",
+    "lastName": "Schowalter",
+    "cgpa": "2.72",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Murl",
+    "lastName": "Harber",
+    "cgpa": "1.32",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Raynor",
+    "cgpa": "1.08",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Sammie",
+    "lastName": "McLaughlin",
+    "cgpa": "1.95",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Rudy",
+    "lastName": "Wyman",
+    "cgpa": "3.35",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Ernestina",
+    "lastName": "Kassulke",
+    "cgpa": "2.00",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jamil",
+    "lastName": "Shields",
+    "cgpa": "2.43",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Lavern",
+    "lastName": "Boyle",
+    "cgpa": "1.91",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Ernesto",
+    "lastName": "Beer",
+    "cgpa": "1.04",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Kaelyn",
+    "lastName": "Macejkovic",
+    "cgpa": "3.57",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Hosea",
+    "lastName": "Murray",
+    "cgpa": "2.51",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Kristy",
+    "lastName": "Heaney",
+    "cgpa": "1.01",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Diamond",
+    "lastName": "Simonis",
+    "cgpa": "2.44",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Webster",
+    "lastName": "Sawayn",
+    "cgpa": "2.06",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Pauline",
+    "lastName": "Bailey",
+    "cgpa": "3.21",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Luigi",
+    "lastName": "Hessel",
+    "cgpa": "1.25",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Chet",
+    "lastName": "Crona",
+    "cgpa": "3.56",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Farrell",
+    "cgpa": "1.59",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Liliane",
+    "lastName": "McDermott",
+    "cgpa": "1.40",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Adelle",
+    "lastName": "Kertzmann",
+    "cgpa": "2.36",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Hane",
+    "cgpa": "2.32",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jeromy",
+    "lastName": "Gleason",
+    "cgpa": "1.48",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Darien",
+    "lastName": "Conn",
+    "cgpa": "2.57",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Ashlee",
+    "lastName": "Turcotte",
+    "cgpa": "3.47",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Lueilwitz",
+    "cgpa": "3.21",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Anahi",
+    "lastName": "Bednar",
+    "cgpa": "0.84",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Alexandra",
+    "lastName": "Morar",
+    "cgpa": "3.09",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Richie",
+    "lastName": "Adams",
+    "cgpa": "3.28",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Ortiz",
+    "cgpa": "2.80",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jeremie",
+    "lastName": "Spinka",
+    "cgpa": "2.54",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Adalberto",
+    "lastName": "Stoltenberg",
+    "cgpa": "1.30",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Dolores",
+    "lastName": "Ortiz",
+    "cgpa": "1.44",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jermaine",
+    "lastName": "Medhurst",
+    "cgpa": "3.88",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Laury",
+    "lastName": "Hettinger",
+    "cgpa": "1.08",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Lou",
+    "lastName": "Maggio",
+    "cgpa": "2.43",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Norval",
+    "lastName": "Feest",
+    "cgpa": "3.04",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Tyrique",
+    "lastName": "Kilback",
+    "cgpa": "1.28",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Erica",
+    "lastName": "Murphy",
+    "cgpa": "1.99",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Clay",
+    "lastName": "Smitham",
+    "cgpa": "2.94",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Marguerite",
+    "lastName": "Mayert",
+    "cgpa": "2.97",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Clinton",
+    "lastName": "Breitenberg",
+    "cgpa": "3.60",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Waelchi",
+    "cgpa": "0.88",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Blick",
+    "cgpa": "2.05",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Franecki",
+    "cgpa": "2.71",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Geovanny",
+    "lastName": "Fadel",
+    "cgpa": "3.87",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Jacobson",
+    "cgpa": "1.92",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Daisha",
+    "lastName": "Schaefer",
+    "cgpa": "2.20",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Alexandrine",
+    "lastName": "Beer",
+    "cgpa": "2.89",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Janiya",
+    "lastName": "Pagac",
+    "cgpa": "3.42",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Jacobs",
+    "cgpa": "2.21",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Serenity",
+    "lastName": "Beahan",
+    "cgpa": "3.76",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Miller",
+    "cgpa": "1.72",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Karson",
+    "lastName": "Barrows",
+    "cgpa": "1.26",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Gutmann",
+    "cgpa": "3.57",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Darrel",
+    "lastName": "Heathcote",
+    "cgpa": "1.58",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Caterina",
+    "lastName": "Mohr",
+    "cgpa": "2.51",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Esperanza",
+    "lastName": "Funk",
+    "cgpa": "1.37",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Larson",
+    "cgpa": "2.46",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Vidal",
+    "lastName": "Schaefer",
+    "cgpa": "2.74",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Ari",
+    "lastName": "Brekke",
+    "cgpa": "2.61",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Demario",
+    "lastName": "Robel",
+    "cgpa": "3.61",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Jaskolski",
+    "cgpa": "1.50",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Anabel",
+    "lastName": "Douglas",
+    "cgpa": "1.34",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Leonie",
+    "lastName": "Rodriguez",
+    "cgpa": "2.89",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Tessie",
+    "lastName": "McClure",
+    "cgpa": "2.18",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Zetta",
+    "lastName": "Skiles",
+    "cgpa": "2.21",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Gaylord",
+    "lastName": "Schmidt",
+    "cgpa": "2.38",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Ethyl",
+    "lastName": "Barton",
+    "cgpa": "1.70",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Alayna",
+    "lastName": "Toy",
+    "cgpa": "1.71",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Wiegand",
+    "cgpa": "2.15",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Noelia",
+    "lastName": "Grant",
+    "cgpa": "3.87",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Johnson",
+    "cgpa": "2.36",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Vickie",
+    "lastName": "Walter",
+    "cgpa": "2.24",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Erica",
+    "lastName": "Zieme",
+    "cgpa": "3.91",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Isidro",
+    "lastName": "Veum",
+    "cgpa": "3.59",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Gretchen",
+    "lastName": "Harber",
+    "cgpa": "3.24",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Einar",
+    "lastName": "Kulas",
+    "cgpa": "2.83",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Fausto",
+    "lastName": "Botsford",
+    "cgpa": "3.37",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Bins",
+    "cgpa": "1.81",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Elissa",
+    "lastName": "Kerluke",
+    "cgpa": "3.00",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Suzanne",
+    "lastName": "Beer",
+    "cgpa": "2.68",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Charlene",
+    "lastName": "Windler",
+    "cgpa": "2.90",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Alverta",
+    "lastName": "Turner",
+    "cgpa": "1.37",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Harvey",
+    "lastName": "Leffler",
+    "cgpa": "3.50",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Vandervort",
+    "cgpa": "1.80",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Rutherford",
+    "cgpa": "3.72",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Bernice",
+    "lastName": "Mohr",
+    "cgpa": "1.58",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Camren",
+    "lastName": "Wunsch",
+    "cgpa": "2.86",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Israel",
+    "lastName": "Heaney",
+    "cgpa": "2.11",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Alvah",
+    "lastName": "Hickle",
+    "cgpa": "3.04",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Elisabeth",
+    "lastName": "Heaney",
+    "cgpa": "3.06",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Sanford",
+    "lastName": "Powlowski",
+    "cgpa": "2.47",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Maude",
+    "lastName": "O'Keefe",
+    "cgpa": "2.73",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Kassandra",
+    "lastName": "Stracke",
+    "cgpa": "1.82",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Lucile",
+    "lastName": "Howell",
+    "cgpa": "3.00",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Kristian",
+    "lastName": "Smitham",
+    "cgpa": "1.63",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Isidro",
+    "lastName": "Collier",
+    "cgpa": "1.95",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Charity",
+    "lastName": "Okuneva",
+    "cgpa": "2.33",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Missouri",
+    "lastName": "Emard",
+    "cgpa": "2.06",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Strosin",
+    "cgpa": "2.44",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Otilia",
+    "lastName": "Nolan",
+    "cgpa": "1.59",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Anya",
+    "lastName": "Morar",
+    "cgpa": "2.55",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Abraham",
+    "lastName": "Hayes",
+    "cgpa": "1.71",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Adriana",
+    "lastName": "Nader",
+    "cgpa": "3.27",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Isadore",
+    "lastName": "Becker",
+    "cgpa": "3.63",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Gaetano",
+    "lastName": "Berge",
+    "cgpa": "3.51",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Weber",
+    "cgpa": "1.62",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Nathaniel",
+    "lastName": "Becker",
+    "cgpa": "2.43",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Barton",
+    "lastName": "Hills",
+    "cgpa": "2.86",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Gennaro",
+    "lastName": "Ernser",
+    "cgpa": "2.18",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Ismael",
+    "lastName": "Auer",
+    "cgpa": "2.00",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jeramie",
+    "lastName": "Goodwin",
+    "cgpa": "2.92",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Haleigh",
+    "lastName": "Will",
+    "cgpa": "2.95",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Armani",
+    "lastName": "Kassulke",
+    "cgpa": "2.65",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Abagail",
+    "lastName": "Bartell",
+    "cgpa": "1.79",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Shane",
+    "lastName": "Kulas",
+    "cgpa": "2.67",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Eulalia",
+    "lastName": "Balistreri",
+    "cgpa": "1.74",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Windler",
+    "cgpa": "1.74",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Darien",
+    "lastName": "Fay",
+    "cgpa": "3.83",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Waldo",
+    "lastName": "Wisoky",
+    "cgpa": "2.79",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Brice",
+    "lastName": "Rau",
+    "cgpa": "1.30",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Haven",
+    "lastName": "Blanda",
+    "cgpa": "2.38",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Myron",
+    "lastName": "Corwin",
+    "cgpa": "3.01",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Gay",
+    "lastName": "Beatty",
+    "cgpa": "3.43",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Bonita",
+    "lastName": "Walter",
+    "cgpa": "1.06",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Orion",
+    "lastName": "Little",
+    "cgpa": "1.82",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Runolfsson",
+    "cgpa": "1.48",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Deontae",
+    "lastName": "Carter",
+    "cgpa": "3.27",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Fay",
+    "cgpa": "2.72",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Kole",
+    "lastName": "Wisozk",
+    "cgpa": "2.05",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Emmy",
+    "lastName": "Barrows",
+    "cgpa": "3.99",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Marquis",
+    "lastName": "Hodkiewicz",
+    "cgpa": "3.98",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Orin",
+    "lastName": "Satterfield",
+    "cgpa": "0.96",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Kamryn",
+    "lastName": "Reichel",
+    "cgpa": "3.89",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jarod",
+    "lastName": "Purdy",
+    "cgpa": "2.29",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Madge",
+    "lastName": "Davis",
+    "cgpa": "1.63",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Chyna",
+    "lastName": "Wintheiser",
+    "cgpa": "2.40",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Lincoln",
+    "lastName": "Altenwerth",
+    "cgpa": "2.05",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Margie",
+    "lastName": "Konopelski",
+    "cgpa": "1.38",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Eula",
+    "lastName": "Rutherford",
+    "cgpa": "1.43",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Hane",
+    "cgpa": "1.16",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Kane",
+    "lastName": "Langosh",
+    "cgpa": "2.11",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Easton",
+    "lastName": "Maggio",
+    "cgpa": "3.47",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Natasha",
+    "lastName": "Schuppe",
+    "cgpa": "2.20",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Otha",
+    "lastName": "Medhurst",
+    "cgpa": "1.51",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Alvis",
+    "lastName": "Muller",
+    "cgpa": "2.94",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Rebeca",
+    "lastName": "Wunsch",
+    "cgpa": "2.59",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Oswaldo",
+    "lastName": "Homenick",
+    "cgpa": "2.78",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Yessenia",
+    "lastName": "Flatley",
+    "cgpa": "1.75",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Dexter",
+    "lastName": "Hane",
+    "cgpa": "2.30",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Yesenia",
+    "lastName": "Boyer",
+    "cgpa": "1.60",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Alexie",
+    "lastName": "Gerhold",
+    "cgpa": "3.65",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Nader",
+    "cgpa": "3.52",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Dolores",
+    "lastName": "Zulauf",
+    "cgpa": "1.20",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Golden",
+    "lastName": "Hermiston",
+    "cgpa": "2.04",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Misty",
+    "lastName": "Fahey",
+    "cgpa": "2.55",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Grady",
+    "lastName": "Kuhn",
+    "cgpa": "1.57",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Stephon",
+    "lastName": "Cassin",
+    "cgpa": "2.52",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Wallace",
+    "lastName": "Stanton",
+    "cgpa": "2.95",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Ervin",
+    "lastName": "Muller",
+    "cgpa": "3.08",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Labadie",
+    "cgpa": "3.69",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "O'Reilly",
+    "cgpa": "2.41",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Therese",
+    "lastName": "Gottlieb",
+    "cgpa": "2.58",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Mable",
+    "lastName": "Harber",
+    "cgpa": "3.25",
+    "state": "Imo"
+  },
+  {
+    "firstName": "May",
+    "lastName": "Quitzon",
+    "cgpa": "0.86",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Jast",
+    "cgpa": "0.82",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Sherman",
+    "lastName": "Bechtelar",
+    "cgpa": "3.53",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Agustina",
+    "lastName": "Hintz",
+    "cgpa": "1.13",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Valentina",
+    "lastName": "Raynor",
+    "cgpa": "2.77",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Mertie",
+    "lastName": "Gerhold",
+    "cgpa": "3.76",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Ludie",
+    "lastName": "O'Kon",
+    "cgpa": "3.95",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Cartwright",
+    "cgpa": "1.32",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Stuart",
+    "lastName": "Bartell",
+    "cgpa": "3.55",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Adolfo",
+    "lastName": "Douglas",
+    "cgpa": "3.10",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Kamron",
+    "lastName": "Mayert",
+    "cgpa": "2.96",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Anderson",
+    "cgpa": "2.31",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Pasquale",
+    "lastName": "McDermott",
+    "cgpa": "3.13",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Vanessa",
+    "lastName": "Heathcote",
+    "cgpa": "3.50",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jettie",
+    "lastName": "Romaguera",
+    "cgpa": "1.06",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Madie",
+    "lastName": "Legros",
+    "cgpa": "3.44",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Delfina",
+    "lastName": "Herzog",
+    "cgpa": "1.50",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jed",
+    "lastName": "Kreiger",
+    "cgpa": "3.54",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Ryleigh",
+    "lastName": "Okuneva",
+    "cgpa": "1.91",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Daphnee",
+    "lastName": "Windler",
+    "cgpa": "3.05",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Alek",
+    "lastName": "Fadel",
+    "cgpa": "3.62",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Maudie",
+    "lastName": "Balistreri",
+    "cgpa": "1.12",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Angelica",
+    "lastName": "Mante",
+    "cgpa": "1.78",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Major",
+    "lastName": "Kuphal",
+    "cgpa": "2.98",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Rahsaan",
+    "lastName": "Schaden",
+    "cgpa": "2.78",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Leonel",
+    "lastName": "Brown",
+    "cgpa": "2.86",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Cooper",
+    "lastName": "Spencer",
+    "cgpa": "2.41",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Emmalee",
+    "lastName": "O'Reilly",
+    "cgpa": "0.83",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Lindgren",
+    "cgpa": "0.84",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Zackery",
+    "lastName": "Murazik",
+    "cgpa": "2.38",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Noelia",
+    "lastName": "Jaskolski",
+    "cgpa": "2.86",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Alphonso",
+    "lastName": "Carroll",
+    "cgpa": "2.97",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Hauck",
+    "cgpa": "3.24",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Yessenia",
+    "lastName": "Effertz",
+    "cgpa": "1.82",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Caitlyn",
+    "lastName": "Mosciski",
+    "cgpa": "0.84",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Liza",
+    "lastName": "McGlynn",
+    "cgpa": "2.36",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Meggie",
+    "lastName": "Crona",
+    "cgpa": "2.08",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "Bradtke",
+    "cgpa": "1.41",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Will",
+    "lastName": "Littel",
+    "cgpa": "1.53",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Katarina",
+    "lastName": "Kozey",
+    "cgpa": "2.31",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Ima",
+    "lastName": "Kunze",
+    "cgpa": "2.27",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Justus",
+    "lastName": "Pfeffer",
+    "cgpa": "4.00",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Laron",
+    "lastName": "Fay",
+    "cgpa": "3.72",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Sage",
+    "lastName": "Marks",
+    "cgpa": "3.64",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Eliane",
+    "lastName": "Olson",
+    "cgpa": "1.19",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Odessa",
+    "lastName": "Metz",
+    "cgpa": "1.67",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Bennett",
+    "lastName": "Tillman",
+    "cgpa": "1.38",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Simeon",
+    "lastName": "Koch",
+    "cgpa": "2.70",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Ned",
+    "lastName": "Larkin",
+    "cgpa": "1.47",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Sandy",
+    "lastName": "Yundt",
+    "cgpa": "3.66",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "Effertz",
+    "cgpa": "0.89",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Melyna",
+    "lastName": "Cronin",
+    "cgpa": "3.28",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Clair",
+    "lastName": "Spencer",
+    "cgpa": "3.75",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Marlee",
+    "lastName": "Barrows",
+    "cgpa": "3.09",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Ewald",
+    "lastName": "Luettgen",
+    "cgpa": "2.81",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Michale",
+    "lastName": "Abshire",
+    "cgpa": "2.15",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Kassulke",
+    "cgpa": "0.97",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Cade",
+    "lastName": "Becker",
+    "cgpa": "1.97",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Leslie",
+    "lastName": "Quitzon",
+    "cgpa": "2.93",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Josefa",
+    "lastName": "Wuckert",
+    "cgpa": "0.92",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Betsy",
+    "lastName": "Rogahn",
+    "cgpa": "2.15",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Sid",
+    "lastName": "Wintheiser",
+    "cgpa": "1.06",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Franecki",
+    "cgpa": "1.96",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Vada",
+    "lastName": "Langosh",
+    "cgpa": "2.94",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Feest",
+    "cgpa": "1.24",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Zetta",
+    "lastName": "Feeney",
+    "cgpa": "1.05",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Bertram",
+    "lastName": "Hickle",
+    "cgpa": "3.23",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Berry",
+    "lastName": "Stamm",
+    "cgpa": "3.77",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Turner",
+    "cgpa": "1.60",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Jordy",
+    "lastName": "Mohr",
+    "cgpa": "3.44",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Ransom",
+    "lastName": "Toy",
+    "cgpa": "2.01",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Florian",
+    "lastName": "Cassin",
+    "cgpa": "1.23",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Hirthe",
+    "cgpa": "3.29",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Raegan",
+    "lastName": "Nolan",
+    "cgpa": "2.46",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Noe",
+    "lastName": "Reilly",
+    "cgpa": "0.90",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Anya",
+    "lastName": "Tremblay",
+    "cgpa": "2.16",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Feest",
+    "cgpa": "2.71",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Melody",
+    "lastName": "Greenholt",
+    "cgpa": "1.12",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Trantow",
+    "cgpa": "1.53",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Carolyne",
+    "lastName": "Hilll",
+    "cgpa": "3.88",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Ashly",
+    "lastName": "Spinka",
+    "cgpa": "3.18",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Joany",
+    "lastName": "Williamson",
+    "cgpa": "2.52",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Oda",
+    "lastName": "Gerlach",
+    "cgpa": "1.94",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Sanford",
+    "cgpa": "3.48",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Jaquan",
+    "lastName": "Morissette",
+    "cgpa": "3.75",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Aaliyah",
+    "lastName": "Kirlin",
+    "cgpa": "3.87",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Kylee",
+    "lastName": "Moen",
+    "cgpa": "3.07",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Orion",
+    "lastName": "Johnston",
+    "cgpa": "2.06",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Angelita",
+    "lastName": "Sanford",
+    "cgpa": "1.30",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Rozella",
+    "lastName": "Mann",
+    "cgpa": "1.45",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Vinnie",
+    "lastName": "Beier",
+    "cgpa": "2.74",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Laurel",
+    "lastName": "Kautzer",
+    "cgpa": "3.47",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Mohammad",
+    "lastName": "Reichel",
+    "cgpa": "2.93",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Hodkiewicz",
+    "cgpa": "2.14",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Leannon",
+    "cgpa": "1.30",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Abshire",
+    "cgpa": "2.93",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Rodger",
+    "lastName": "Konopelski",
+    "cgpa": "1.43",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Blair",
+    "lastName": "Hackett",
+    "cgpa": "2.61",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Burnice",
+    "lastName": "Boyle",
+    "cgpa": "3.82",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Alexandro",
+    "lastName": "Roberts",
+    "cgpa": "2.56",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Lue",
+    "lastName": "Purdy",
+    "cgpa": "1.46",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Myrl",
+    "lastName": "Kassulke",
+    "cgpa": "2.89",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Yasmine",
+    "lastName": "Lynch",
+    "cgpa": "2.31",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Emmanuelle",
+    "lastName": "Willms",
+    "cgpa": "1.22",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Dorris",
+    "lastName": "Kulas",
+    "cgpa": "3.77",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Margaretta",
+    "lastName": "Jaskolski",
+    "cgpa": "2.44",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Carmella",
+    "lastName": "Walter",
+    "cgpa": "3.24",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Kariane",
+    "lastName": "Hegmann",
+    "cgpa": "3.01",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Ryley",
+    "lastName": "Herman",
+    "cgpa": "3.94",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Adrain",
+    "lastName": "Murazik",
+    "cgpa": "1.87",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Alanis",
+    "lastName": "MacGyver",
+    "cgpa": "0.94",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Stanton",
+    "lastName": "Johns",
+    "cgpa": "2.28",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Lolita",
+    "lastName": "Wilderman",
+    "cgpa": "2.68",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Lavern",
+    "lastName": "Luettgen",
+    "cgpa": "1.00",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Hailie",
+    "lastName": "Johnston",
+    "cgpa": "1.55",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Johnathon",
+    "lastName": "Cole",
+    "cgpa": "3.72",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Madyson",
+    "lastName": "Kuhlman",
+    "cgpa": "3.01",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Schoen",
+    "cgpa": "2.81",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Ebert",
+    "cgpa": "1.01",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Wilton",
+    "lastName": "Kuvalis",
+    "cgpa": "3.94",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "West",
+    "cgpa": "3.66",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Konopelski",
+    "cgpa": "1.45",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Shaniya",
+    "lastName": "Jenkins",
+    "cgpa": "2.43",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Langworth",
+    "cgpa": "3.96",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Skye",
+    "lastName": "Kessler",
+    "cgpa": "1.47",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Rosalind",
+    "lastName": "Pagac",
+    "cgpa": "3.56",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Sonya",
+    "lastName": "Yundt",
+    "cgpa": "3.59",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Robyn",
+    "lastName": "Schimmel",
+    "cgpa": "1.79",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Nathanial",
+    "lastName": "Anderson",
+    "cgpa": "2.71",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Rickey",
+    "lastName": "Jacobs",
+    "cgpa": "2.74",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Torrance",
+    "lastName": "Bogan",
+    "cgpa": "2.35",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Loma",
+    "lastName": "Wilderman",
+    "cgpa": "3.60",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Emmy",
+    "lastName": "VonRueden",
+    "cgpa": "2.89",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Herminio",
+    "lastName": "Grady",
+    "cgpa": "1.96",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Jacinthe",
+    "lastName": "Green",
+    "cgpa": "2.52",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Merlin",
+    "lastName": "Grimes",
+    "cgpa": "1.06",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Rosemarie",
+    "lastName": "Kuhn",
+    "cgpa": "2.79",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Rosella",
+    "lastName": "O'Connell",
+    "cgpa": "3.44",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Emie",
+    "lastName": "Satterfield",
+    "cgpa": "1.75",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Lawson",
+    "lastName": "Brekke",
+    "cgpa": "3.62",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Dayne",
+    "lastName": "Mueller",
+    "cgpa": "2.42",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Jordane",
+    "lastName": "Christiansen",
+    "cgpa": "1.86",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Queen",
+    "lastName": "Kozey",
+    "cgpa": "1.67",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Fern",
+    "lastName": "Kuhic",
+    "cgpa": "3.37",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Hoyt",
+    "lastName": "Steuber",
+    "cgpa": "3.94",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Marietta",
+    "lastName": "Mayer",
+    "cgpa": "0.86",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Darion",
+    "lastName": "Predovic",
+    "cgpa": "3.96",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Crona",
+    "cgpa": "1.61",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Brooks",
+    "lastName": "Larkin",
+    "cgpa": "3.16",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Verna",
+    "lastName": "Runolfsson",
+    "cgpa": "1.31",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Mack",
+    "lastName": "Ward",
+    "cgpa": "1.63",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Elouise",
+    "lastName": "Grimes",
+    "cgpa": "1.16",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Catharine",
+    "lastName": "Kuhlman",
+    "cgpa": "3.88",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Elda",
+    "lastName": "Renner",
+    "cgpa": "2.84",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Sienna",
+    "lastName": "Lehner",
+    "cgpa": "1.97",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Garret",
+    "lastName": "Murray",
+    "cgpa": "1.03",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Kassandra",
+    "lastName": "McCullough",
+    "cgpa": "2.04",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Lenny",
+    "lastName": "Macejkovic",
+    "cgpa": "3.95",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Gonzalo",
+    "lastName": "Dare",
+    "cgpa": "3.85",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Balistreri",
+    "cgpa": "1.05",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Bruen",
+    "cgpa": "3.73",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Bryce",
+    "lastName": "Koelpin",
+    "cgpa": "1.66",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Keeley",
+    "lastName": "Mills",
+    "cgpa": "1.57",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Gloria",
+    "lastName": "Weimann",
+    "cgpa": "3.11",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Elvera",
+    "lastName": "Bode",
+    "cgpa": "1.80",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Delaney",
+    "lastName": "Zboncak",
+    "cgpa": "3.01",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Isom",
+    "lastName": "Keebler",
+    "cgpa": "1.68",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Horace",
+    "lastName": "Zboncak",
+    "cgpa": "1.93",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Georgianna",
+    "lastName": "Larkin",
+    "cgpa": "3.64",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Toney",
+    "lastName": "Hills",
+    "cgpa": "3.46",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Benny",
+    "lastName": "Rippin",
+    "cgpa": "3.59",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Velva",
+    "lastName": "Rempel",
+    "cgpa": "1.89",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Art",
+    "lastName": "Hintz",
+    "cgpa": "2.15",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Isidro",
+    "lastName": "Cormier",
+    "cgpa": "0.87",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Mervin",
+    "lastName": "Zboncak",
+    "cgpa": "3.30",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Reinhold",
+    "lastName": "Turcotte",
+    "cgpa": "2.95",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Daugherty",
+    "cgpa": "2.65",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Chasity",
+    "lastName": "Borer",
+    "cgpa": "3.55",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Aileen",
+    "lastName": "Stanton",
+    "cgpa": "3.53",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Orpha",
+    "lastName": "Feeney",
+    "cgpa": "1.83",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Anita",
+    "lastName": "Hettinger",
+    "cgpa": "3.16",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Eldridge",
+    "lastName": "Hintz",
+    "cgpa": "2.18",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Dedrick",
+    "lastName": "Von",
+    "cgpa": "1.74",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Eleanore",
+    "lastName": "Tillman",
+    "cgpa": "3.92",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Ernesto",
+    "lastName": "Muller",
+    "cgpa": "1.26",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Wallace",
+    "lastName": "Rippin",
+    "cgpa": "3.94",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Fay",
+    "lastName": "Hoppe",
+    "cgpa": "3.77",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Margie",
+    "lastName": "Auer",
+    "cgpa": "3.67",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Schroeder",
+    "cgpa": "1.45",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Chauncey",
+    "lastName": "Hermiston",
+    "cgpa": "3.78",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Benny",
+    "lastName": "Oberbrunner",
+    "cgpa": "0.87",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Paxton",
+    "lastName": "Reichert",
+    "cgpa": "3.92",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Enos",
+    "lastName": "Roob",
+    "cgpa": "1.31",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Laron",
+    "lastName": "Kerluke",
+    "cgpa": "3.83",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Emmie",
+    "lastName": "Hegmann",
+    "cgpa": "0.98",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kaylee",
+    "lastName": "Torphy",
+    "cgpa": "3.00",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Lorena",
+    "lastName": "Koch",
+    "cgpa": "0.93",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Hilario",
+    "lastName": "Legros",
+    "cgpa": "2.12",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Miles",
+    "lastName": "Smith",
+    "cgpa": "1.65",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Carolanne",
+    "lastName": "Grant",
+    "cgpa": "1.33",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Aliya",
+    "lastName": "Kshlerin",
+    "cgpa": "1.10",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Declan",
+    "lastName": "Dach",
+    "cgpa": "0.85",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Jacky",
+    "lastName": "Veum",
+    "cgpa": "2.41",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Kurtis",
+    "lastName": "Hammes",
+    "cgpa": "2.16",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Jesus",
+    "lastName": "Gerhold",
+    "cgpa": "2.67",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Linnea",
+    "lastName": "Pouros",
+    "cgpa": "1.28",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Danika",
+    "lastName": "Zieme",
+    "cgpa": "1.19",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Lonzo",
+    "lastName": "Stroman",
+    "cgpa": "2.62",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Teagan",
+    "lastName": "Mueller",
+    "cgpa": "2.37",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Lauretta",
+    "lastName": "Walker",
+    "cgpa": "2.72",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Richmond",
+    "lastName": "Kuhic",
+    "cgpa": "2.16",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Kovacek",
+    "cgpa": "3.68",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kaleigh",
+    "lastName": "Nienow",
+    "cgpa": "2.96",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Alivia",
+    "lastName": "Strosin",
+    "cgpa": "3.83",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Carmela",
+    "lastName": "Rogahn",
+    "cgpa": "1.07",
+    "state": "Imo"
+  },
+  {
+    "firstName": "May",
+    "lastName": "Shanahan",
+    "cgpa": "2.70",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Christop",
+    "lastName": "Braun",
+    "cgpa": "0.86",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Ariel",
+    "lastName": "Kassulke",
+    "cgpa": "3.35",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Block",
+    "cgpa": "2.77",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Brennon",
+    "lastName": "Fadel",
+    "cgpa": "3.01",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Herzog",
+    "cgpa": "1.50",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Sadye",
+    "lastName": "Kovacek",
+    "cgpa": "3.88",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Glennie",
+    "lastName": "Dickinson",
+    "cgpa": "1.29",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Tyra",
+    "lastName": "Boehm",
+    "cgpa": "3.11",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Nettie",
+    "lastName": "Murray",
+    "cgpa": "0.96",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Shanny",
+    "lastName": "Tromp",
+    "cgpa": "1.60",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Reece",
+    "lastName": "Daniel",
+    "cgpa": "0.83",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Crystal",
+    "lastName": "Simonis",
+    "cgpa": "3.99",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Raphaelle",
+    "lastName": "Hagenes",
+    "cgpa": "1.39",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Jessie",
+    "lastName": "Ryan",
+    "cgpa": "1.39",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kianna",
+    "lastName": "Heathcote",
+    "cgpa": "0.88",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Napoleon",
+    "lastName": "Bashirian",
+    "cgpa": "1.57",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Arjun",
+    "lastName": "Cronin",
+    "cgpa": "3.78",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Regan",
+    "lastName": "Stokes",
+    "cgpa": "3.69",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Bethel",
+    "lastName": "Gutmann",
+    "cgpa": "2.00",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Hiram",
+    "lastName": "Homenick",
+    "cgpa": "0.93",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Karine",
+    "lastName": "Block",
+    "cgpa": "2.68",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Nona",
+    "lastName": "Stehr",
+    "cgpa": "3.90",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Sadie",
+    "lastName": "Turner",
+    "cgpa": "2.32",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Chauncey",
+    "lastName": "Hackett",
+    "cgpa": "1.71",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Rex",
+    "lastName": "Marks",
+    "cgpa": "3.76",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Lane",
+    "lastName": "Jast",
+    "cgpa": "1.95",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Arianna",
+    "lastName": "MacGyver",
+    "cgpa": "2.75",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Alphonso",
+    "lastName": "Prohaska",
+    "cgpa": "3.04",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Toney",
+    "lastName": "Bednar",
+    "cgpa": "2.72",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Ruthie",
+    "lastName": "West",
+    "cgpa": "2.63",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Michaela",
+    "lastName": "Powlowski",
+    "cgpa": "3.85",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jadyn",
+    "lastName": "Grady",
+    "cgpa": "2.52",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Elaina",
+    "lastName": "Pouros",
+    "cgpa": "1.39",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Simonis",
+    "cgpa": "3.22",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Schaden",
+    "cgpa": "1.12",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Domingo",
+    "lastName": "Jakubowski",
+    "cgpa": "3.57",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Emard",
+    "cgpa": "2.91",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Block",
+    "cgpa": "0.91",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Anya",
+    "lastName": "Fadel",
+    "cgpa": "3.22",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Rosamond",
+    "lastName": "Carter",
+    "cgpa": "0.99",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Ashly",
+    "lastName": "Bogan",
+    "cgpa": "1.43",
+    "state": "Niger"
+  },
+  {
+    "firstName": "America",
+    "lastName": "Walter",
+    "cgpa": "2.63",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Destin",
+    "lastName": "Aufderhar",
+    "cgpa": "2.43",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Purdy",
+    "cgpa": "2.46",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Rosie",
+    "lastName": "Muller",
+    "cgpa": "3.48",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Franz",
+    "lastName": "Rogahn",
+    "cgpa": "3.35",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Angelica",
+    "lastName": "Bruen",
+    "cgpa": "3.52",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Dibbert",
+    "cgpa": "2.30",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Weston",
+    "lastName": "Rodriguez",
+    "cgpa": "3.40",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Dorris",
+    "lastName": "Hammes",
+    "cgpa": "3.26",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Cassidy",
+    "lastName": "Mayert",
+    "cgpa": "1.82",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Geovany",
+    "lastName": "Schimmel",
+    "cgpa": "1.45",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Delta",
+    "lastName": "Feil",
+    "cgpa": "3.03",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Alysa",
+    "lastName": "Blanda",
+    "cgpa": "3.19",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Beverly",
+    "lastName": "Collier",
+    "cgpa": "1.29",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Francesca",
+    "lastName": "Jast",
+    "cgpa": "2.38",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Princess",
+    "lastName": "Schoen",
+    "cgpa": "3.79",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Mafalda",
+    "lastName": "O'Keefe",
+    "cgpa": "1.07",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Boehm",
+    "cgpa": "3.74",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Genesis",
+    "lastName": "Pfannerstill",
+    "cgpa": "2.63",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Camron",
+    "lastName": "Mraz",
+    "cgpa": "2.04",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Sanford",
+    "lastName": "Rippin",
+    "cgpa": "2.87",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Haskell",
+    "lastName": "Wehner",
+    "cgpa": "3.42",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Baylee",
+    "lastName": "Orn",
+    "cgpa": "2.88",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Kyla",
+    "lastName": "Gutmann",
+    "cgpa": "2.64",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Sonia",
+    "lastName": "Koch",
+    "cgpa": "2.26",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Gina",
+    "lastName": "Murphy",
+    "cgpa": "1.15",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Gaston",
+    "lastName": "Skiles",
+    "cgpa": "1.22",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Rashad",
+    "lastName": "Rempel",
+    "cgpa": "3.98",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Jarvis",
+    "lastName": "Lang",
+    "cgpa": "0.93",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Fletcher",
+    "lastName": "Nader",
+    "cgpa": "3.27",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Cynthia",
+    "lastName": "Hammes",
+    "cgpa": "1.55",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Branson",
+    "lastName": "Torp",
+    "cgpa": "3.12",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Mylene",
+    "lastName": "Wilderman",
+    "cgpa": "3.98",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Cyril",
+    "lastName": "Schiller",
+    "cgpa": "1.29",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Dejuan",
+    "lastName": "Hyatt",
+    "cgpa": "1.60",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Schumm",
+    "cgpa": "2.85",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Bailee",
+    "lastName": "Daniel",
+    "cgpa": "1.58",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Alexandrea",
+    "lastName": "Cremin",
+    "cgpa": "3.20",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Morar",
+    "cgpa": "1.68",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Luciano",
+    "lastName": "Murray",
+    "cgpa": "2.16",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Keanu",
+    "lastName": "O'Keefe",
+    "cgpa": "2.84",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Rodger",
+    "lastName": "Okuneva",
+    "cgpa": "2.54",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Ricky",
+    "lastName": "Rippin",
+    "cgpa": "1.84",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Forrest",
+    "lastName": "Cartwright",
+    "cgpa": "2.82",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Gina",
+    "lastName": "Daniel",
+    "cgpa": "2.85",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Kellie",
+    "lastName": "Davis",
+    "cgpa": "0.90",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Kenyon",
+    "lastName": "Effertz",
+    "cgpa": "2.93",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Aileen",
+    "lastName": "Wisozk",
+    "cgpa": "2.90",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Roselyn",
+    "lastName": "Casper",
+    "cgpa": "3.85",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Lemuel",
+    "lastName": "Bernhard",
+    "cgpa": "2.50",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Rhiannon",
+    "lastName": "Williamson",
+    "cgpa": "1.43",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Maureen",
+    "lastName": "Zulauf",
+    "cgpa": "2.72",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Berry",
+    "lastName": "Champlin",
+    "cgpa": "2.12",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Leif",
+    "lastName": "Stiedemann",
+    "cgpa": "2.89",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kiarra",
+    "lastName": "Reynolds",
+    "cgpa": "2.63",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Ruthie",
+    "lastName": "Schiller",
+    "cgpa": "0.90",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Langworth",
+    "cgpa": "1.43",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Dusty",
+    "lastName": "Reichert",
+    "cgpa": "3.51",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kyra",
+    "lastName": "Wehner",
+    "cgpa": "2.71",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Rogelio",
+    "lastName": "Bogisich",
+    "cgpa": "2.79",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Zack",
+    "lastName": "Friesen",
+    "cgpa": "1.55",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Wilkinson",
+    "cgpa": "1.21",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Yadira",
+    "lastName": "Cole",
+    "cgpa": "3.27",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Tamara",
+    "lastName": "Rosenbaum",
+    "cgpa": "1.82",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Toby",
+    "lastName": "Hayes",
+    "cgpa": "1.65",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Aiyana",
+    "lastName": "Kohler",
+    "cgpa": "3.86",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Nellie",
+    "lastName": "Mohr",
+    "cgpa": "2.16",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Xander",
+    "lastName": "Simonis",
+    "cgpa": "3.67",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Sipes",
+    "cgpa": "2.59",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Elyssa",
+    "lastName": "Rohan",
+    "cgpa": "1.84",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Murphy",
+    "cgpa": "2.54",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Karina",
+    "lastName": "Flatley",
+    "cgpa": "3.43",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Oda",
+    "lastName": "Anderson",
+    "cgpa": "3.47",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Tyshawn",
+    "lastName": "Hintz",
+    "cgpa": "2.69",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Kaleigh",
+    "lastName": "Gerhold",
+    "cgpa": "2.14",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Verdie",
+    "lastName": "Raynor",
+    "cgpa": "1.02",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Kirlin",
+    "cgpa": "3.17",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Lester",
+    "lastName": "Grant",
+    "cgpa": "2.40",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Cronin",
+    "cgpa": "1.44",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Emmett",
+    "lastName": "Rogahn",
+    "cgpa": "1.79",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Ullrich",
+    "cgpa": "1.67",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Geoffrey",
+    "lastName": "Mitchell",
+    "cgpa": "1.36",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Haleigh",
+    "lastName": "Willms",
+    "cgpa": "3.77",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Johnpaul",
+    "lastName": "Harvey",
+    "cgpa": "1.30",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Edwina",
+    "lastName": "Wyman",
+    "cgpa": "1.51",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Torrance",
+    "lastName": "Carroll",
+    "cgpa": "3.10",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Kaitlin",
+    "lastName": "Waelchi",
+    "cgpa": "2.74",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Marjolaine",
+    "lastName": "Bergnaum",
+    "cgpa": "3.18",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Golda",
+    "lastName": "Hirthe",
+    "cgpa": "1.98",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Candace",
+    "lastName": "Wuckert",
+    "cgpa": "1.74",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Ruthe",
+    "lastName": "Block",
+    "cgpa": "3.71",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Sim",
+    "lastName": "Champlin",
+    "cgpa": "3.86",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Irving",
+    "lastName": "McKenzie",
+    "cgpa": "2.73",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Lou",
+    "lastName": "Anderson",
+    "cgpa": "2.99",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Beatty",
+    "cgpa": "3.16",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Sydney",
+    "lastName": "Yost",
+    "cgpa": "3.40",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Tremblay",
+    "cgpa": "2.57",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Dudley",
+    "lastName": "Predovic",
+    "cgpa": "2.42",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Glenna",
+    "lastName": "Rau",
+    "cgpa": "3.04",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Missouri",
+    "lastName": "Moore",
+    "cgpa": "3.04",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Floy",
+    "lastName": "Brown",
+    "cgpa": "3.10",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Augusta",
+    "lastName": "Larkin",
+    "cgpa": "1.66",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Francesca",
+    "lastName": "Heidenreich",
+    "cgpa": "3.71",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Caesar",
+    "lastName": "Kassulke",
+    "cgpa": "3.79",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Meggie",
+    "lastName": "Bode",
+    "cgpa": "1.35",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Lupe",
+    "lastName": "Gutkowski",
+    "cgpa": "3.04",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Moises",
+    "lastName": "Wehner",
+    "cgpa": "3.65",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "DuBuque",
+    "cgpa": "3.16",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jeramie",
+    "lastName": "Reilly",
+    "cgpa": "2.35",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Francisca",
+    "lastName": "Jacobi",
+    "cgpa": "3.69",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Raheem",
+    "lastName": "Emard",
+    "cgpa": "2.81",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Johns",
+    "cgpa": "1.19",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Johnathon",
+    "lastName": "Kuhic",
+    "cgpa": "3.40",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Vada",
+    "lastName": "Ryan",
+    "cgpa": "2.87",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Angeline",
+    "lastName": "Feil",
+    "cgpa": "3.02",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Orval",
+    "lastName": "Borer",
+    "cgpa": "0.97",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "April",
+    "lastName": "O'Connell",
+    "cgpa": "1.18",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Travon",
+    "lastName": "Nikolaus",
+    "cgpa": "3.71",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Brandi",
+    "lastName": "Kub",
+    "cgpa": "2.38",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Joany",
+    "lastName": "Russel",
+    "cgpa": "1.22",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Cronin",
+    "cgpa": "3.66",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Hammes",
+    "cgpa": "2.69",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Garrett",
+    "lastName": "Goyette",
+    "cgpa": "2.19",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Constance",
+    "lastName": "Hettinger",
+    "cgpa": "2.53",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Jolie",
+    "lastName": "Osinski",
+    "cgpa": "1.92",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Gaston",
+    "lastName": "Bechtelar",
+    "cgpa": "2.83",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Felicia",
+    "lastName": "Greenfelder",
+    "cgpa": "1.77",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Delmer",
+    "lastName": "Mosciski",
+    "cgpa": "2.66",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Jamarcus",
+    "lastName": "Stoltenberg",
+    "cgpa": "3.60",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Shannon",
+    "lastName": "Thiel",
+    "cgpa": "1.92",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Shea",
+    "lastName": "Denesik",
+    "cgpa": "3.25",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Johnathan",
+    "lastName": "Sanford",
+    "cgpa": "2.41",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Okuneva",
+    "cgpa": "2.05",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Shaylee",
+    "lastName": "Denesik",
+    "cgpa": "2.77",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Jensen",
+    "lastName": "Wyman",
+    "cgpa": "3.50",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Wunsch",
+    "cgpa": "2.53",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Kovacek",
+    "cgpa": "1.26",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Mable",
+    "lastName": "Kshlerin",
+    "cgpa": "1.59",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Madisyn",
+    "lastName": "Will",
+    "cgpa": "3.78",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Horace",
+    "lastName": "Kilback",
+    "cgpa": "3.70",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Junius",
+    "lastName": "Johnston",
+    "cgpa": "2.25",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Karley",
+    "lastName": "Hilpert",
+    "cgpa": "1.90",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Arielle",
+    "lastName": "McDermott",
+    "cgpa": "3.52",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Merl",
+    "lastName": "Quigley",
+    "cgpa": "3.71",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Ernser",
+    "cgpa": "2.20",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Meda",
+    "lastName": "Kilback",
+    "cgpa": "2.98",
+    "state": "Enugu"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Satterfield",
+    "cgpa": "1.89",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Kristoffer",
+    "lastName": "Kub",
+    "cgpa": "2.95",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Kylie",
+    "lastName": "Johnston",
+    "cgpa": "3.68",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Myrna",
+    "lastName": "Abbott",
+    "cgpa": "1.50",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Flo",
+    "lastName": "Kihn",
+    "cgpa": "1.01",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Gaylord",
+    "cgpa": "3.55",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Terrell",
+    "lastName": "Watsica",
+    "cgpa": "1.53",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Ryan",
+    "cgpa": "1.39",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Sheridan",
+    "lastName": "Tromp",
+    "cgpa": "2.03",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Vandervort",
+    "cgpa": "1.41",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jarod",
+    "lastName": "Schneider",
+    "cgpa": "2.20",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Jaunita",
+    "lastName": "Champlin",
+    "cgpa": "3.59",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Leslie",
+    "lastName": "Altenwerth",
+    "cgpa": "2.13",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Treva",
+    "lastName": "Cremin",
+    "cgpa": "3.38",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Bette",
+    "lastName": "Smith",
+    "cgpa": "0.91",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Vergie",
+    "lastName": "Ortiz",
+    "cgpa": "2.52",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Preston",
+    "lastName": "Russel",
+    "cgpa": "1.43",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Orpha",
+    "lastName": "Walsh",
+    "cgpa": "3.02",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Edwin",
+    "lastName": "Luettgen",
+    "cgpa": "1.74",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Alessandro",
+    "lastName": "Nolan",
+    "cgpa": "3.16",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Ziemann",
+    "cgpa": "3.13",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Dietrich",
+    "cgpa": "1.63",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Gretchen",
+    "lastName": "Hackett",
+    "cgpa": "1.82",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Huels",
+    "cgpa": "2.12",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Archibald",
+    "lastName": "Dach",
+    "cgpa": "1.82",
+    "state": "Oyo"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Kulas",
+    "cgpa": "2.13",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Zakary",
+    "lastName": "Rowe",
+    "cgpa": "3.61",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Zieme",
+    "cgpa": "3.56",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Clint",
+    "lastName": "Klocko",
+    "cgpa": "1.13",
+    "state": "Niger"
+  },
+  {
+    "firstName": "Noble",
+    "lastName": "Kautzer",
+    "cgpa": "1.35",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Heaven",
+    "lastName": "Kemmer",
+    "cgpa": "0.81",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Gage",
+    "lastName": "Kuphal",
+    "cgpa": "3.31",
+    "state": "Kwara"
+  },
+  {
+    "firstName": "Hipolito",
+    "lastName": "Auer",
+    "cgpa": "2.01",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Melvina",
+    "lastName": "Zieme",
+    "cgpa": "3.62",
+    "state": "Kano"
+  },
+  {
+    "firstName": "Ruth",
+    "lastName": "Boyer",
+    "cgpa": "3.13",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Lexie",
+    "lastName": "Rosenbaum",
+    "cgpa": "2.07",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Dustin",
+    "lastName": "Murphy",
+    "cgpa": "2.18",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Keely",
+    "lastName": "Vandervort",
+    "cgpa": "1.74",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Nedra",
+    "lastName": "Koch",
+    "cgpa": "3.75",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Roxane",
+    "lastName": "Witting",
+    "cgpa": "1.98",
+    "state": "Osun"
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Ratke",
+    "cgpa": "3.54",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Jakayla",
+    "lastName": "Blanda",
+    "cgpa": "1.11",
+    "state": "Ogun"
+  },
+  {
+    "firstName": "Lorenza",
+    "lastName": "Larkin",
+    "cgpa": "1.59",
+    "state": "Taraba"
+  },
+  {
+    "firstName": "Stefanie",
+    "lastName": "Hammes",
+    "cgpa": "2.03",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Mauricio",
+    "lastName": "Gulgowski",
+    "cgpa": "3.55",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Erica",
+    "lastName": "Ratke",
+    "cgpa": "3.79",
+    "state": "Ondo"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Boehm",
+    "cgpa": "3.47",
+    "state": "Lagos"
+  },
+  {
+    "firstName": "Laverne",
+    "lastName": "Hettinger",
+    "cgpa": "0.83",
+    "state": "Sokoto"
+  },
+  {
+    "firstName": "Amaya",
+    "lastName": "Schneider",
+    "cgpa": "3.64",
+    "state": "Ekiti"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Langosh",
+    "cgpa": "3.80",
+    "state": "Imo"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Boyer",
+    "cgpa": "0.95",
+    "state": "Oyo"
+  }
+]
