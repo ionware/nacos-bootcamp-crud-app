@@ -1,0 +1,11 @@
+extend layout
+
+block layout-content
+    div.container
+        h1 log in
+        form(action="/login", method="post") 
+            input(type="text", name="username" placeholder="Username")
+            input(type="password", name="password" placeholder='Password')
+            input(type="submit" value="login")
+        span Don't have an account? 
+        a.sign-up-link(href="sign-up") sign up
