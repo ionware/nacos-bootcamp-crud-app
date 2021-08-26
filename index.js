@@ -1,12 +1,20 @@
 const express = require('express')
-const {get : getController, about} = require('./controllers/appController')
 
 const app = express()
 
-app.get('/', getController)
+// SETUP STATIC FILES - name of static files folder is 'assets'
+app.use(express.static(path.resolve(__dirname, 'assets')))
 
-app.get('/about', about);
+// MIDDLEWARE
+app.use((req, res, next) => {
+    console.log(req.method, req.url)
+    next()
+})
 
-app.listen(3000);
+// TEMPLATE ENGINE - name of view folder is 'view'
+app.set('view engine', 'pug')
+app.set('views', './view')
 
 app.get()
+
+module.exports = app;
