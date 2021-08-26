@@ -1,4 +1,5 @@
 const express = require('express')
+const path = require('path')
 
 const app = express()
 
@@ -14,7 +15,5 @@ app.use((req, res, next) => {
 // TEMPLATE ENGINE - name of view folder is 'view'
 app.set('view engine', 'pug')
 app.set('views', './view')
-
-app.get()
 
 module.exports = app;
